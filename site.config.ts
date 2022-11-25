@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '图知观察',
-  domain: 'https://yilimi.notion.site/yilimi/c371b76d3f3844a7b433d9e7bdd00019?v=ee044d9303c84d19abd6b540043a054d',
+  domain: 'https://www.notion.so/yilimi/c371b76d3f3844a7b433d9e7bdd00019?v=ee044d9303c84d19abd6b540043a054d',
   author: 'ylm',
 
   // open graph metadata (optional)
