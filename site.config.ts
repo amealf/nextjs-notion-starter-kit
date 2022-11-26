@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ee044d9303c84d19abd6b540043a054d',
+  rootNotionPageId: 'c371b76d3f3844a7b433d9e7bdd00019',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '图知观察',
-  domain: 'https://www.notion.so/yilimi/c371b76d3f3844a7b433d9e7bdd00019?v=ee044d9303c84d19abd6b540043a054d',
+  domain: 'https://yilimi.notion.site/yilimi/c371b76d3f3844a7b433d9e7bdd00019',
   author: 'ylm',
 
   // open graph metadata (optional)
